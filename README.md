@@ -1,4 +1,6 @@
 👋 Hi, I’m APEACE
+<img align="right" alt="Coder GIF" width=380 src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Black_hole_representation.gif" />
+
 - 👀 I’m interested in space exploration, history, chess, cybersecurity, and occasionally programming!?
 - 🌱 I’m currently learning to live
 - 💞️ I’m looking to collaborate on something which is not nothing
